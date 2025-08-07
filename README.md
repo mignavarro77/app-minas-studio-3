@@ -9,3 +9,4 @@ O minas Studio é um app pensado pra facilitar a vida de quem ama cuidar das unh
 O design foi feito no Figma e mostra como o app vai funcionar. Dá pra ver as telas de login, início com os serviços e avaliações, e a experiência pensada pra deixar tudo prático e agradável.
 📌 Status
 Esse é só o começo! Por enquanto é um protótipo, mas a ideia é transformar o NailTime num app completo pra facilitar o dia a dia no salão.
+Link do prototipo https://www.figma.com/proto/meodRDbvz7DTaZaMSOO0lA/app-minas-studio-3?node-id=0-1&t=Bg6wRodrKpoyJpxe-1
